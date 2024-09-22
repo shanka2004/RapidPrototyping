@@ -1,0 +1,8 @@
+viewer.py 
+bodytracking line 435
+
+https://stackoverflow.com/questions/65699670/pyopengl-opengl-error-nullfunctionerror-attempt-to-call-an-undefined-functio
+
+https://stackoverflow.com/questions/27093037/python-glutcreatewindow-error-wrong-type
+
+glutCreateWindow(bytes("ZED Body Tracking","ascii"))

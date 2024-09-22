@@ -1,0 +1,11 @@
+﻿"angle"= 22.5
+"driveR"= 40
+"D1@Sketch2"="angle"
+"D2@Sketch2"="driveR"
+"wheelR"= 40
+"D3@Sketch2"="wheelR"
+"pin"= 5
+"D4@Sketch2"="pin"
+"D5@Sketch2"=("pin"/2)+"tol"
+"tol"= 0.4
+"D7@Sketch2"="tol"

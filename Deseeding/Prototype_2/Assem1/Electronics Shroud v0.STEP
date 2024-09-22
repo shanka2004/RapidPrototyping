@@ -1,0 +1,28 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('Electronics Shroud v0.STEP',
+    '2024-08-21T14:37:33',
+    ( '' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2024',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+#1 = PRODUCT_DEFINITION ( 'UNKNOWN', '', #3, #5 ) ;
+#2 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #6 ) ;
+#3 = PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE ( 'ANY', '', #10, .NOT_KNOWN. ) ;
+#4 = PRODUCT_CONTEXT ( 'NONE', #8, 'mechanical' ) ;
+#5 = PRODUCT_DEFINITION_CONTEXT ( 'detailed design', #6, 'design' ) ;
+#6 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#7 = PRODUCT_RELATED_PRODUCT_CATEGORY ( 'part', '', ( #10 ) ) ;
+#8 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#9 = PRODUCT_DEFINITION_SHAPE ( 'NONE', 'NONE',  #1 ) ;
+#10 = PRODUCT ( 'Electronics Shroud v0', 'Electronics Shroud v0', '', ( #4 ) ) ;
+#11 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #8 ) ;
+ENDSEC;
+END-ISO-10303-21;

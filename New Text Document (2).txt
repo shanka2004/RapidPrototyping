@@ -1,1 +1,9 @@
-Machine learning and pose estimation for autonomous grasping with collaborative robots
+{
+hostname: octopiCR30
+Username: pi
+Password: 1234
+}
+source venv/bin/activate
+OctoPrint/venv/bin/octoprint serve
+
+HlwGsKVtTnWEJVIcgZU8Bib74we8zV9wv6tAY5cs3pk

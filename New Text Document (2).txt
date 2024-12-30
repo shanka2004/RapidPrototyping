@@ -1,8 +1,17 @@
 {
-hostname: octopiCR30
-Username: pi
-Password: 1234
+hostname: pi1
+Username: Sri
+Password: 12345678
 }
+
+{
+hostname: pi2
+Username: pi2
+Password: 12345678
+
+octoprint : pi1 ... 1234
+}
+
 source venv/bin/activate
 OctoPrint/venv/bin/octoprint serve
 
